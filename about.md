@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About me!
 permalink: /about/
 ---
 
-Jekyll Now illustrates the easiest possible workflow for setting up a Jekyll powered blog. My goal is for you to be able to use it to set up your blog as quickly as possible—giving you more time to spend on writing epic blog posts!
+Hey ! Its me Rajitha the white hat hacker.
 
 ## Features
 
